@@ -70,5 +70,5 @@ function game(){
     game();
 // }
 
-//add an even listener to buttons that call my playRound function with the correct playerSelection
+//add an even listener to buttons [Rock, paper, scissors] that will update the playerSelection to whichever button is clicked
     //everytime a button is clicked
